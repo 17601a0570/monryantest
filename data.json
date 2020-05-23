@@ -3,27 +3,27 @@
     "id": 1,
     "name": "Ryan Julius",
     "heartrate": "45",
-    "physical state": "sleeping",
+    "physicalstate": "sleeping",
     }
   },
   {
     "id": 2,
      "name": "Ravi Bhogu",
     "heartrate": "70",
-    "physical state": "resting",
+    "physicalstate": "resting",
     
   },
   {
     "id": 3,
     "name": "Aparna Bhogu",
     "heartrate": "120",
-    "physical state": "walking",
+    "physicalstate": "walking",
   },
   {
     "id": 4,
     "name": "Sashank Bhogu",
     "heartrate": "170",
-    "physical state": "cycling",
+    "physicalstate": "cycling",
   }
  
 ]
