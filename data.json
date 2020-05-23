@@ -5,13 +5,11 @@
     "heartrate": "45",
     "physicalstate": "sleeping",
     },
-
   {
     "id": 2,
      "name": "Ravi Bhogu",
     "heartrate": "70",
-    "physicalstate": "resting",
-    
+    "physicalstate": "resting",   
   },
   {
     "id": 3,
@@ -24,6 +22,5 @@
     "name": "Sashank Bhogu",
     "heartrate": "170",
     "physicalstate": "cycling",
-  }
- 
+  } 
 ]
